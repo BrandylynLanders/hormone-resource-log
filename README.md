@@ -4,6 +4,7 @@
 This is a living knowledge base designed for women—especially those in perimenopause, menopause, or on hormone replacement therapy—who want clear, easy-to-digest information about hormones without needing a medical degree or hours of PubMed reading.
 
 It includes:
+
 /articles-reviewed/         → Research article summaries, study links, PubMed notes  
 /core-concepts/             → Foundational hormone education (receptors, metabolism, delivery methods)  
 /hormone-impacts/           → How diet, exercise, stress, alcohol, drugs affect hormones  
